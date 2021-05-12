@@ -2,6 +2,8 @@
 
 This app uses the Random User API to fetch 'employee' data. You can sort adn filter the employee data in an easy-to-read table layout.
 
+View a live demo of the app at https://tvnames.github.io/react-employee-directory/
+
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
