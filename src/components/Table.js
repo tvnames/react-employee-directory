@@ -24,7 +24,7 @@ function Table(props) {
             <td className="d-flex justify-content-center">
               <img
                 alt={`${result.first} ${result.last}`}
-                src={result.picture}
+                src={result.profilePic}
                 className="rounded-circle"
               />
             </td>
