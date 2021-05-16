@@ -3,8 +3,7 @@ import React from "react";
 function searchBox(props) {
   return (
     <form>
-      <div className="form-group formGroup">
-        <label htmlFor="search"></label>
+      <div className="form-group">
         <input
           onChange={props.handleInputChange}
           value={props.search}
