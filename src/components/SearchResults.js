@@ -29,7 +29,7 @@ class SearchResults extends Component {
             last: result.name.last,
             email: result.email,
             phone: result.phone,
-            profilePic: result.profilePic,
+            profilePic: result.picture.medium,
           };
         });
       })
